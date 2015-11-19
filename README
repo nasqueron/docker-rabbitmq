@@ -1,0 +1,10 @@
+              RabbitMQ Docker image, with management, STOMP and MQTT
+  ##  ##      
+  ##  ##      Usage:  docker pull nasqueron/rabbitmq
+  ##########          mkdir /data/blue-rabbit
+  ######  ##          ./run-mq blue-rabbit
+  ##########
+              This work is based on the Docker library RabbitMQ image.
+
+              Any issue with this image? http://docker.nasqueron.org
+
